@@ -1,0 +1,22 @@
+.row {
+    display: grid;
+    grid-template-columns:repeat(3, 1fr);
+    gap: 10px;
+    width: 100vw;
+}
+.card {
+    margin-right: 10px;
+}
+#noFumar {
+    display: none;
+}
+.Fumar {
+    
+    
+}
+#noMascotas {
+    display: none;
+}
+#siMascotas{
+    display: none;
+}
